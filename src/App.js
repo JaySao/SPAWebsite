@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.scss';
 import Particles from 'react-tsparticles'
 
